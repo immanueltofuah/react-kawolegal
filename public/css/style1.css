@@ -1,5 +1,4 @@
 
-
 .head {
     padding: 0px 70px 0px 70px;
     
@@ -16,7 +15,6 @@ ul li{
     background-color: #f8f9fa00 !important;
     margin-top: 30px;
     text-decoration: underline;
-    
 }
 .back-image {
     background-image: linear-gradient(rgba(73,0,0,0.700), rgba(73,0,0,0.700)), url(../images/24.jpg);
@@ -75,4 +73,6 @@ house {
    font-weight: 50px;
 
 }
+
+
 
