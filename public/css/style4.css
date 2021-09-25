@@ -1,0 +1,122 @@
+.tab {
+    margin-right: 20px;
+    color: brown;
+    margin-top: 20px;
+}
+.head {
+        padding: 0px 70px 0px 70px;
+        
+        
+    
+    }
+
+.rnav {
+    text-align: right;
+}
+
+.box {
+    background: rgb(105, 17, 17);
+    height: 125px;
+    
+}
+
+.finder {
+    margin-right: -20px; 
+}
+
+.think {
+    text-align: right;
+    margin-top: 40px;
+    background: rgba(238, 237, 237, 0);
+}
+.thof {
+    padding-top: 70px;
+}
+
+.look {
+    font-size: xx-large;
+}
+.me {
+    margin-top: -20;
+}
+
+.use{
+    margin-top: 50px;
+}
+
+.cube {
+    margin-top: 70px;
+    
+    
+}
+
+.slate {
+    font-size: xx-large;
+}
+
+.car {
+    margin-top: 80px;
+}
+
+ul li{
+    display: inline-block;
+    word-spacing: 40px;
+}
+
+.tab {
+   border: rgb(194, 38, 38);
+    color: rgb(165, 17, 17);
+    background-color: #f8f9fa00 !important;
+}
+
+.footer {
+    background: rgb(105, 17, 17);
+    width: 101%;
+    height: 50px;
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+}
+.social {
+    color: rgb(68, 181, 233);
+   margin-right: 45px;
+   font-weight: 50px;
+   border-radius: 100%;
+
+}
+
+.border {
+    border: rgb(99, 99, 99);
+    background: rgba(238, 237, 237, 0);
+}
+
+.house {
+    background: rgb(238, 237, 237);
+}
+.search {
+    display: inline-block;
+    margin-left: -30px;
+    border-radius: 0px;
+    height:80px;
+}
+.image {
+    border:1px dotted rgb(187, 186, 186);
+}
+.line{
+    width: 800px;
+    height: 1px;
+    background: rgb(190, 189, 189);
+    margin-left: 35%;
+    margin-top: 30px;
+}
+.searcher {
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.text {
+    display: inline-block;
+    color: rgb(194, 38, 38);
+}
+.logo {
+    margin-top: 10px;
+}

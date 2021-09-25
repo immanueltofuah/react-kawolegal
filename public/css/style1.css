@@ -1,0 +1,78 @@
+
+.head {
+    padding: 0px 70px 0px 70px;
+    
+    
+}
+ul li{
+    display: inline-block;
+    word-spacing: 40px;
+}
+
+.tab {
+   border: rgb(194, 38, 38);
+    color: rgb(165, 17, 17);
+    background-color: #f8f9fa00 !important;
+    margin-top: 30px;
+    text-decoration: underline;
+    
+}
+.back-image {
+    background-image: linear-gradient(rgba(73,0,0,0.700), rgba(73,0,0,0.700)), url(../images/24.jpg);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    padding: 30px;
+ 
+house {
+    border: 1px brown;
+}
+
+
+.icon {
+    background: rgba(165, 42, 42, 0);
+    margin-bottom: 70px;
+    margin-left: 35px;
+}
+.see {
+    display: inline-block;
+    color: rgb(194, 38, 38);
+ }
+
+.content {
+    color: white;
+    text-align: center;
+}
+
+
+
+.detail {
+    text-align: center;
+    color: white;
+    background: brown(204, 18, 18);
+    padding-top: 15px;
+}
+.footer {
+    background: rgb(105, 17, 17);
+    width: 101.5%;
+    height: 50px;
+
+}
+
+.symbol {
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+}
+
+.social {
+    color: rgb(68, 181, 233);
+   margin-right: 45px;
+   font-weight: 50px;
+
+}
+
+
+
