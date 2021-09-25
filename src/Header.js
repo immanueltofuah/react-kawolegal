@@ -2,7 +2,7 @@ function Header(){
     return (
 <div class="row logo">
            <div className="col-md-2 moon">
-            <img className="icon" src="images/23.png" alt="logo">  
+            <img className="icon" src="images/23.png" alt="logo"/>  
             <div className="col-md-1 see">
                 <h1>KAWO</h1>
             <h1>LEGAL</h1>
