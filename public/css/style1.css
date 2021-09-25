@@ -36,10 +36,14 @@ house {
     margin-bottom: 70px;
     margin-left: 35px;
 }
+
 .see {
     display: inline-block;
-    color: rgb(194, 38, 38);
- }
+    margin-left: 140px;
+    margin-top: -16rem;
+    margin-bottom: -2rem;
+    color: rgb(194, 45, 45);
+}
 
 .content {
     color: white;
