@@ -5,26 +5,27 @@ function Home() {
   return (
     <div>
       <div className="back-image">
-        <div className="row logo">
-          <div className="col-md-2 moon">
-            <img className="icon" src="images/23.png" alt="logo" />
-            <div className="col-md-1 see ">
-              <h1 className="kawo">KAWO</h1>
-              <h1 className="legal">LEGAL</h1>
-            </div>
-          </div>
-          <div className="col-md-4"></div>
-          <div className="col-md-5 ">
+      <div className="row ">
+        <div className="col-md-2 tea">
+         <img className="sign" src="images/23.png" alt="logo"/>  
+         <div className="col-md-1 see">
+             <h1>KAWO</h1>
+         <h1>LEGAL</h1>
+         </div>
+         
+        </div>
+        <div className="col-md-4"></div>
+        <div className="col-md-5 nav-link ">
             <ul>
-              <div className="house">
-              <li><Link to="/">Home</Link></li>
+                <li><Link to="/">Home</Link></li>
                  <li><Link to="/Startup">Startup</Link></li>
                  <li><Link to="/register">Register</Link></li>
                  <li><Link to="/login">Login</Link></li>
-              </div>
-            </ul>
-          </div>
+
+             </ul>
         </div>
+        
+    </div>
 
         <br />
         <br />
