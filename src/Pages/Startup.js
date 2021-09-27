@@ -1,5 +1,6 @@
 function Startup (){    
     return (
+        <div>
         <div className="row ice">
         <div className="col-md-2 tea">
          <img className="sign" src="images/23.png" alt="logo"/>  
@@ -29,7 +30,7 @@ function Startup (){
         <div className="row">
             <div className="col-md-2"></div>
             <div className="col-md-8">
-                <input className="form-control form-control-lg finder" type="text" placeholder=".search Startup by name or industry" aria-label=".form-control-lg example">
+                <input className="form-control form-control-lg finder" type="text" placeholder=".search Startup by name or industry" aria-label=".form-control-lg example"/>
 
             </div>
             <div className="col-md-2">
@@ -40,11 +41,12 @@ function Startup (){
 
             </div>
         </div>
+        <div/>
         <br/>
         <br/> 
         <div className="row">
             <div className=" col-md-4 think">
-                <img className="image" src="images/20.png" alt="logo">
+                <img className="image" src="images/20.png" alt="logo"/>
                 
             </div>
             <div className=" col-md-8 thof">
@@ -59,7 +61,7 @@ function Startup (){
         <br/>
         <div className="row">
             <div className=" col-md-4 think cube">
-                <img className="image" src="images/22.png" alt="logo ">
+                <img className="image" src="images/22.png" alt="logo "/>
                 
             </div>
             <div className=" col-md-8 thof">
@@ -71,8 +73,8 @@ function Startup (){
             <br/>
             <div className="line"></div>
         </div>
-        <br>
-        <br>
+        <br/>
+        <br/>
         <div className="row">
             <div className=" col-md-4 think car">
                 <img className="image" src="images/21.png" alt="logo"/>
@@ -87,12 +89,12 @@ function Startup (){
 
             <div className="line"></div>
         </div>
-        <br>
-        <br>
+        <br/>
+        <br/>
         <div className="row footer">
             <div className="col-md-6 detail"  >
                   &copy; 2017 KawoLegal All Rights Reserved!
-            <br>
+            <br/>
             </div>
             <div className="col-md-3"></div>
             <div className="col-md-3 symbol">
@@ -111,6 +113,7 @@ function Startup (){
         
         
     </div>
+</div>
 
     )
 }
