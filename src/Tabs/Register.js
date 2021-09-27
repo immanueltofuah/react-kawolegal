@@ -1,5 +1,6 @@
 function Register () {
     return (
+        <div>
         <div class="row ice">
         <div class="col-md-2 tea">
          <img class="sign" src="images/23.png" alt="logo">  
@@ -72,5 +73,6 @@ function Register () {
 
        </div>
     </div>
+ </div>
     )
 }
