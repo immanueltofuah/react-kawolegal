@@ -13,10 +13,10 @@ function Startup (){
         <div className="col-md-4"></div>
         <div className="col-md-5 ">
             <ul>
-                <li><a href="Home.html" className="btn -primary btn-lg active cool" role="button" aria-pressed="true">Home</a></li>
-                 <li><a href="Startup.html" className="btn -primary btn-lg active cool" role="button" aria-pressed="true">Startup</a></li>
-                 <li><a href="Register.html" className="btn -primary btn-lg active cool" role="button" aria-pressed="true">Register</a></li>
-                 <li><a href="Login.html" className="btn -primary btn-lg active cool" role="button" aria-pressed="true">Login</a></li>
+                <li><link to="./">Home</link></li>
+                 <li><link to="./Startup">Startup</link></li>
+                 <li><link to="./register">Register</link></li>
+                 <li><link to="./login">Login</link></li>
 
              </ul>
         </div>
