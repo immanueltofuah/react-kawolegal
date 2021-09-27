@@ -14,7 +14,7 @@ function Startup (){
          
         </div>
         <div className="col-md-4"></div>
-        <div className="col-md-5 ">
+        <div className="col-md-5 nav-links">
             <ul>
                 <li><Link to="/">Home</Link></li>
                  <li><Link to="/Startup">Startup</Link></li>

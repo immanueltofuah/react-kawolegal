@@ -14,7 +14,7 @@ function Login () {
          
         </div>
         <div class="col-md-4"></div>
-        <div class="col-md-5 ">
+        <div class="col-md-5 nav-links">
             <ul>
                 <li><Link to="/">Home</Link></li>
                  <li><Link to="/Startup">Startup</Link></li>
