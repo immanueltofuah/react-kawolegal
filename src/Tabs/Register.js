@@ -18,9 +18,9 @@ function Register () {
         <div class="col-md-5 ">
             <ul>
             <li><link to="./">Home</link></li>
-                 <li><link to="./Startup">Startup</link></li>
-                 <li><link to="./register">Register</link></li>
-                 <li><link to="./login">Login</link></li>
+                 <li><Link to="./Startup">Startup</Link></li>
+                 <li><Link to="./register">Register</Link></li>
+                 <li><Link to="./login">Login</Link></li>
              </ul>
         </div>
 
