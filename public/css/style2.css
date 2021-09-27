@@ -150,11 +150,12 @@ ul li{
 }
 
 .nav-links li{
-padding: 20px 40px;
+padding: 20px 20px;
 transition: 3s ease;
 }
 
 .nav-links li:hover{
  background: rgb(46,0,0); 
  color: rgb(255,88,88);  
+ text-decoration: underline;
 }
