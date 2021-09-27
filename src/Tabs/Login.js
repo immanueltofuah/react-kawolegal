@@ -36,10 +36,10 @@ function Login () {
                 </h4>
                 <br/>
                 <br/>
-                <h6><Strong>Email Address</Strong></h6>
+                <h6>Email Address</h6>
                 <input class="form-control form-control-lg finder" type="text" placeholder="Email" aria-label=".form-control-lg example"/>
                 <br/>
-                <h6><Strong>Password</Strong></h6>
+                <h6>Password</h6>
                 <input class="form-control form-control-lg finder" type="text" placeholder="Password" aria-label=".form-control-lg example"/>
                 <br/>
                 <button type="button" class="btn btn-primary btn-lg">Sign in</button>
