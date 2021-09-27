@@ -6,6 +6,7 @@ import Register from './Tabs/Register';
 import Login from './Tabs/Login';
 
 function Router(Props) {
+    return (
     <BrowserRouter>
     <Route exact path="/" component={Home} />
     <Route exact path="/startups" component={Startup} />
@@ -14,5 +15,7 @@ function Router(Props) {
     
     
     </BrowserRouter>
-
+    );
 }
+
+export default Router;
